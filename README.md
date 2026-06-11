@@ -3,7 +3,7 @@
 
 # Permissions must be changed in order to run script
 # Once typed and saved on a text editor, go to terminal, cd to file location, and input the following
-# 
+
 
 
 #include <stdio.h>
