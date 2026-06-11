@@ -1,5 +1,5 @@
 # EZ-C-Port-Scanner
-# #include <stdio.h>
+#include <stdio.h>
 /* port.scan.c */
 
 int main()
